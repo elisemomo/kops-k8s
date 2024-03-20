@@ -11,7 +11,7 @@
 
 3. Kops compete with managed kubernestes services like EKS, AKS and GKE
 
-4. Kops is cheaper than the others.
+4. Kops is cheaper than the others..
 
 5. Kops create production ready K8S.
 
